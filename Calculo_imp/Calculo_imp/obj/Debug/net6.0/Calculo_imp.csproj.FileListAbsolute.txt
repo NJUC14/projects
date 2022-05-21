@@ -1,0 +1,15 @@
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\bin\Debug\net6.0\Calculo_imp.exe
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\bin\Debug\net6.0\Calculo_imp.deps.json
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\bin\Debug\net6.0\Calculo_imp.runtimeconfig.json
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\bin\Debug\net6.0\Calculo_imp.dll
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\bin\Debug\net6.0\Calculo_imp.pdb
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\Calculo_imp.csproj.AssemblyReference.cache
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\Calculo_imp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\Calculo_imp.AssemblyInfoInputs.cache
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\Calculo_imp.AssemblyInfo.cs
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\Calculo_imp.csproj.CoreCompileInputs.cache
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\Calculo_imp.dll
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\refint\Calculo_imp.dll
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\Calculo_imp.pdb
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\Calculo_imp.genruntimeconfig.cache
+C:\Users\Nelso\Desktop\Projectos (Visual)\Calculo_imp\Calculo_imp\obj\Debug\net6.0\ref\Calculo_imp.dll
